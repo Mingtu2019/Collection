@@ -81,3 +81,23 @@
 	wiztree 能让您方便的的查看所有文件夹和文件的大小。
 
 #### 这里是一些网站: 
+
+* **itellyou**: <https://msdn.itellyou.cn/> <https://next.itellyou.cn/Original/Index>
+
+	itellyou 一个官方原版系统映像网站。
+	
+* **qBittorrent-Enhanced-Edition**: <https://github.com/c0re100/qBittorrent-Enhanced-Edition>
+
+	qBittorrent-Enhanced-Edition 一个反吸血 bittorrent 客户端。
+	
+* **TrackersListCollection**: <https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md>
+
+	TrackersListCollection 一个整合了全网热门 Tracker 的项目。
+	
+* **一些白噪音网站**: 
+
+	A SOFT MURMUR: <https://asoftmurmur.com/>
+	
+	virtocean: <https://virtocean.com/>
+	
+	
